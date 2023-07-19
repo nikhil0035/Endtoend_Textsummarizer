@@ -1,6 +1,5 @@
 from Endtoend_Textsummarizer.components.data_validation import DataValiadtion
 from Endtoend_Textsummarizer.config.configuration import ConfigurationManager
-from Endtoend_Textsummarizer.components.data_validation import DataValiadtion
 from Endtoend_Textsummarizer.logging import logger
 
 class DataValidationTrainingPipeline:
